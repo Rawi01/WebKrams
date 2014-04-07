@@ -1,3 +1,1 @@
-class HelloWorld
-  puts 'Hello World'
-end
+puts "Hello #{ARGV[0].to_s}"
